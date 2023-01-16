@@ -76,15 +76,7 @@ customers choose </h4>
         </div>
         
 </body>
-</html>
-
-
-
-
-
-
-
-#CSSCODE
+<Style>
 *{
     margin: 0%;
     padding: 0%;
@@ -333,3 +325,5 @@ button:hover{
     background-color: #ed5565;
     cursor: pointer;
 }
+</Style>
+</HTML>
